@@ -30,4 +30,4 @@ This project is a Java Swing-based GUI application designed to manage student en
 4. Run `MainGUIDB.java`
 
 ## 📷 Screenshots
-![GUI Screenshot] (Screenshot%202026-04-16%20221245.png)
+![GUI Screenshot](Screenshot%202026-04-16%20221245.png)
