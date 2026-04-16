@@ -28,3 +28,6 @@ This project is a Java Swing-based GUI application designed to manage student en
 2. Open in IntelliJ / NetBeans
 3. Configure database connection in `DBConnection.java`
 4. Run `MainGUIDB.java`
+
+## 📷 Screenshots
+![GUI Screenshot] (Screenshot%202026-04-16%20221245.png)
